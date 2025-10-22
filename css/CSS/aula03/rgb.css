@@ -1,0 +1,27 @@
+body{
+
+background-image: url(https://img.pikbest.com/png-images/20240919/cute-penguin-cartoon-vector-icon-illustration-isolated-background_10863923.png!w700wp);
+ 
+ /* Faz com que a imagem prencha a tela toda */
+ background-size: cover;
+}
+
+#red{
+    color: rgb(179, 4, 4);
+}
+#gree{
+    color: rgb(64, 219, 87);
+}
+#blue{
+    color: rgb(79, 165, 250);
+}
+
+h2{
+    font-size: 45px;
+    color: rgb(91, 25, 255);
+}
+
+p{
+    /* HEX ou código hexadecimal representa uma cor especifico.Esse código é como voce recebera de seu designer as cores para construir os sites de seus clientes */
+    color: rgb(249, 249, 249);
+}

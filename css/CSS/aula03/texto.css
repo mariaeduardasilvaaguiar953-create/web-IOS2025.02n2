@@ -1,0 +1,23 @@
+ /*Para usar uma fonte da internet podemos usar a @import do site especificado. No exemplo abaixo utilizamos o site Google Fonts para importar e utilizar uma font-family*/
+ 
+ @import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Dancing+Script:wght@400..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+ 
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:40px;
+    letter-spacing: 10px;
+    text-align: center;
+    /* text-shadow:
+    1° valor: deslocamento horizontal
+    2° valor: deslocamento vertical
+    3° valor: desfoque
+    4° valor: cor da sombra */
+    text-shadow: -10px 20px 5px rgb(75, 167, 237);
+}
+
+p{
+    font-family:"Playfair Display", serif;
+    text-align: center;
+    width: 900px;
+}
+
