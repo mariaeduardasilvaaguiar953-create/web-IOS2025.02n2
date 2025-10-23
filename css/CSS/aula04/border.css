@@ -1,0 +1,13 @@
+h1{
+    /* border-width determinou o tamanho sa borda */
+    border-width: 10px;
+    /* border-color determinaa cor da barra */
+    background-color: rgb(200, 142, 254);
+    /* border-style determina o formato da borda */
+    border-style: double;
+
+}
+/* Podemos criar bordas de maneiras abreviada recebendo 3 valores, sendo eles: tamanho (5px) */
+p{
+border: 10px double rgb(190, 83, 220);
+}
